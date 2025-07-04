@@ -2,7 +2,7 @@
 /**
  * Snippet: Custom WooCommerce checkout fields
  * Description: Adds company VAT field to checkout with validation
- * Tags: woocommerce, checkout, ecommerceeeeeeee
+ * Tags: woocommerce, checkout, ecommerceeeeeeeeefffffffffff
  * Required: woocommerce>=5.0
  * Secrets: vat_api_key
  * Version: 1.2.0
