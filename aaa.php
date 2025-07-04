@@ -8,7 +8,7 @@
  * Version: 1.2.0
  * Author: Your Name
  * Priority: 10
- * Context: frontend
+ * Context: backend
  */
 
 // Shortcode to display the current time
