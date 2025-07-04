@@ -11,4 +11,7 @@
  * Context: frontend, backend
  */
 
-echo "slijfalj";
+// Shortcode to display the current year
+add_shortcode('current_year', function() {
+    return date('Y');
+});
