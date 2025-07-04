@@ -1,7 +1,7 @@
 <?php
 /**
  * Snippet: Custom ShmoooCommerce checkout fields
- * Description: Adds company VAT field to checkout with validation
+ * Description: Adds company VATTTT field to checkout with validation
  * Tags: all
  * Required: 
  * Secrets: 
