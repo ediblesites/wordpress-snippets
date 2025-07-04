@@ -11,4 +11,7 @@
  * Context: frontend
  */
 
-echo "asdja;dlsjf";
+// Shortcode to display the current time
+add_shortcode('current_time', function() {
+    return date('H:i:s');
+});
